@@ -24,8 +24,8 @@ Make sure you have the following installed:
 1.  **Clone the repository**
 
     ```sh
-    git clone <github.com>
-    cd <project>
+    git clone https://github.com/Himanshu6567/Dynamic-Element-Render
+    cd Dynamic-Element-Render
 
     ```
 
